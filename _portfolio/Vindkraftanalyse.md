@@ -1,6 +1,6 @@
 ---
 title: "Vindkraftanalyse"
-excerpt: "Short description of portfolio item number 1<br/></images/vindkkraftanalyse.png>"
+excerpt: "![icon vindkraft](images/vindkkraftanalyse.png)"
 collection: portfolio
 ---
 
@@ -78,7 +78,7 @@ NVE-data
 
  
 
-/images/workflow_FME_vindkraft.png
+![FME workspace](/images/workflow_FME_vindkraft.png)
 
  
 
@@ -86,11 +86,11 @@ NVE-data
 
  
 
-/images/R_1_vindkraft.png
+![Analyse i R](/images/R_1_vindkraft.png)
 
  
 
-/images/R_2_vindkraft.png
+![Analyse i R del.2](/images/R_2_vindkraft.png)
 
  
 
@@ -98,7 +98,7 @@ NVE-data
 
  
 
-/images/vindkraft_samenligning.jpg
+![kart med resultater](/images/vindkraft_samenligning.jpg)
 
  
 
