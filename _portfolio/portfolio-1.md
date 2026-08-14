@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Vindkraftanalyse"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
@@ -57,3 +57,41 @@ FME
 R
 GeoNorge
 NVE-data
+
+## ArcGIS ModelBuilder
+24
+ 
+25
+/images/model_builder_arcGIS_vindkraft.png
+26
+ 
+27
+## FME Workspace
+28
+ 
+29
+/images/workflow_FME_vindkraft.png
+30
+ 
+31
+## Analyse i R
+32
+ 
+33
+/images/R_1_vindkraft.png
+34
+ 
+35
+/images/R_2_vindkraft.png
+36
+ 
+37
+## Resultater
+38
+ 
+39
+/images/vindkraft_samenligning.jpg
+40
+ 
+41
+Analysen identifiserte flere områder med potensial for vindkraftutbygging.
