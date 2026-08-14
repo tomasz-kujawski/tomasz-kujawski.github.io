@@ -9,10 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 UTDANNING
 ======
 * Data science videreutdanning, Merito Universitet 2024-2025
 * Arealplanlegger - master A. Mickiewicz Universitet 2005-2010
+
 
 
 ARBEIDSERFARING
@@ -39,6 +42,7 @@ ARBEIDSERFARING
   
 * 2007 Praktikant - Wielkopolska regionale planleggingskontor (Wojewdzkie biuro planowania przestrzennego)
 
+
   
 TEKNISKE FERDIGHETER
 ======
@@ -47,6 +51,8 @@ TEKNISKE FERDIGHETER
 * R
 * Python
 * SQL
+
+
 
 SPRÅK
 ======
