@@ -9,7 +9,7 @@ collection: portfolio
 Prosjektet hadde som mål å identifisere områder i Norge som kan være egnet for etablering av vindkraftanlegg. Analysen tok utgangspunkt i tekniske, miljømessige og arealrelaterte kriterier for å finne områder med gode vindressurser og tilstrekkelig infrastruktur, samtidig som konflikter med bebyggelse, naturverdier og andre arealinteresser ble redusert.
 
 
-##Datasett
+## Datasett
 
 Følgende offentlige geodata ble benyttet i analysen:
 
@@ -27,7 +27,7 @@ Dataene ble hentet fra GeoNorge, NVE og andre offentlige datakilder.
 
 
 
-##Metode
+## Metode
 
 Analysen ble gjennomført som en GIS-basert egnethetsanalyse.
 Først ble områder med gjennomsnittlig vindhastighet under 6,5 m/s ekskludert. Deretter ble det identifisert områder med tilgang til strømnettet ved å avgrense analysen til områder innenfor 2 km fra eksisterende transformatorstasjoner.
@@ -44,14 +44,14 @@ De gjenværende områdene ble deretter sammenstilt og visualisert for å identif
 
 
 
-##Resultater
+## Resultater
 
 Analysen identifiserte flere områder med potensial for vindkraftutbygging som oppfyller definerte tekniske og miljømessige kriterier. Resultatene viser hvordan tilgjengelige offentlige geodata kan brukes til å gjennomføre en systematisk og transparent egnethetsanalyse.
 Prosjektet demonstrerte også hvordan ulike GIS-verktøy kan benyttes til å validere og sammenligne analyser på tvers av plattformer. Resultatene fra ArcGIS Pro, FME og R ga tilsvarende geografiske mønstre og bekreftet robustheten i analysen.
 
 
 
-##Verktøy
+## Verktøy
 ArcGIS Pro
 FME
 R
@@ -59,39 +59,39 @@ GeoNorge
 NVE-data
 
 ## ArcGIS ModelBuilder
-24
- 
-25
+
+
+
 /images/model_builder_arcGIS_vindkraft.png
-26
+
  
-27
+
 ## FME Workspace
-28
+
  
-29
+
 /images/workflow_FME_vindkraft.png
-30
+
  
-31
+
 ## Analyse i R
-32
+
  
-33
+
 /images/R_1_vindkraft.png
-34
+
  
-35
+
 /images/R_2_vindkraft.png
-36
+
  
-37
+
 ## Resultater
-38
+
  
-39
+
 /images/vindkraft_samenligning.jpg
-40
+
  
-41
+
 Analysen identifiserte flere områder med potensial for vindkraftutbygging.
