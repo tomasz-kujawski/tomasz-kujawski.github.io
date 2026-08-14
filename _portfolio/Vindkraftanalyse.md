@@ -13,23 +13,23 @@ Prosjektet hadde som mål å identifisere områder i Norge som kan være egnet f
 
 Følgende offentlige geodata ble benyttet i analysen:
 
-*Vindressursdata
+Vindressursdata
 
-*Transformatorstasjoner og elektrisk infrastruktur
+Transformatorstasjoner og elektrisk infrastruktur
 
-*Bygninger og bebygde områder
+Bygninger og bebygde områder
 
-*Fritidsbebyggelse og fritidsområder
+Fritidsbebyggelse og fritidsområder
 
-*Innsjøer og elver
+Innsjøer og elver
 
-*Isbreer
+Isbreer
 
-*Vernede områder
+Vernede områder
 
-*UNESCO-områder
+UNESCO-områder
 
-*Innflygingssoner ved flyplasser
+Innflygingssoner ved flyplasser
 
 Dataene ble hentet fra GeoNorge, NVE og andre offentlige datakilder.
 
@@ -43,9 +43,13 @@ For å redusere konflikt med bebyggelse ble det opprettet buffersoner på 800 me
 I tillegg ble følgende arealtyper fjernet:
 
 innsjøer og elver
+
 isbreer
+
 vernede områder
+
 UNESCO-områder
+
 innflygingssoner ved flyplasser
 
 De gjenværende områdene ble deretter sammenstilt og visualisert for å identifisere potensielle lokaliteter for vindkraftutbygging
@@ -60,11 +64,17 @@ Prosjektet demonstrerte også hvordan ulike GIS-verktøy kan benyttes til å val
 
 
 ## Verktøy
+
 ArcGIS Pro
+
 FME
+
 R
+
 GeoNorge
+
 NVE-data
+
 
 ## ArcGIS ModelBuilder
 
