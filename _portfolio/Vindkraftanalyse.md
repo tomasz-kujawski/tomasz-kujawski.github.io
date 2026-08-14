@@ -1,7 +1,9 @@
 ---
 title: "Vindkraftanalyse"
-excerpt: "![icon vindkraft](images/vindkkraftanalyse.png)"
 collection: portfolio
+excerpt: "GIS-basert egnethetsanalyse for vindkraftutbygging i Norge."
+header:
+teaser: /images/vindkraftanalyse.png
 ---
 
 ## Bakgrunn
