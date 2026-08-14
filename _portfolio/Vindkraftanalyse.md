@@ -1,7 +1,7 @@
 ---
 title: "Vindkraftanalyse"
 collection: portfolio
-excerpt: "GIS-basert romlig analyse for vindkraftutbygging i Norge."
+excerpt: "GIS-basert romlig analyse for vindkraftutbygging i Norge. <br/><img src='/images/vindkraftanalyse.png'>"
 teaser: /images/vindkraftanalyse.png
 
 ---
