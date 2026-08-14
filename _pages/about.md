@@ -48,8 +48,16 @@ Selv om jeg er relativt ny i faget, er jeg trygg på at jeg har tatt det riktige
 
 
 ## Data Science og dataanalyse
-2
+
 Som en del av karriereskiftet fullførte jeg videreutdanning i Data Science – Analyse av data ved WSB Merito Universitet.
 Studiet ga meg et solid grunnlag innen databehandling, programmering og analyse. Jeg arbeidet med innsamling, kvalitetssikring, transformasjon, analyse og visualisering av data ved bruk av Python og moderne analyseverktøy.
 Gjennom studiet fikk jeg erfaring med blant annet Python, pandas, NumPy, Matplotlib og Jupyter Notebook, samt metoder for eksplorativ dataanalyse (EDA), statistikk og maskinlæring. Jeg arbeidet med reelle datasett og lærte hvordan data kan brukes som beslutningsstøtte gjennom systematisk analyse og visualisering.
 Selv om hovedinteressen min i dag er GIS og arealplanlegging, ser jeg dataanalyse som et viktig supplement. Evnen til å strukturere, analysere og visualisere store mengder informasjon er relevant både innen geodata, samfunnsanalyse og arealplanlegging.
+
+
+## Arealplanlegging og samfunnsutvikling
+
+Studiene i arealplanlegging ga meg det faglige fundamentet som bekreftet at jeg hadde valgt riktig retning. Jeg ble særlig tiltrukket av fagets tverrfaglige karakter, der geografi, samfunnsvitenskap, økonomi, miljøfag, planlegging og forvaltning møtes for å løse komplekse utfordringer.
+Gjennom studiene lærte jeg å analysere sammenhenger mellom mennesker, næringsliv, natur og arealbruk. Jeg arbeidet med temaer som byutvikling, regional utvikling, klimaomstilling, strategisk planlegging og konsekvenser av ulike former for arealutnyttelse. Samtidig fikk jeg erfaring med GIS og romlige analyser som verktøy for å forstå og visualisere samfunnsutvikling.
+Noe av det mest verdifulle jeg har tatt med meg fra studiene er forståelsen av at arealplanlegging handler om langt mer enn kart og reguleringer. Det handler om å balansere ulike interesser og behov, og om å skape gode rammer for menneskers hverdag samtidig som man ivaretar natur, miljø og økonomisk utvikling.
+Studiene har også gitt meg innsikt i hvordan offentlige myndigheter, næringsliv og lokalsamfunn påvirker hverandre, og hvordan gode planprosesser krever både analytiske ferdigheter og evne til dialog og samarbeid. Denne helhetlige tilnærmingen til samfunnsutvikling er en av hovedgrunnene til at jeg trives så godt innen fagfeltet.
