@@ -1,0 +1,110 @@
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|Running translation wb-xlate-1780045046753_21416 via FME Daemon
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|Current FME version: FME 2026.1.2.0 (20260512 - Build 26124 - WIN64)
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|System Time: 20260529085727 UTC
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME license: FME Form (floating)
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|Machine host name is: OSL-CND2120866
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|OS Locale Name     : nb_NO
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|OS Locale Encoding : windows-1252
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|Process Encoding   : UTF-8
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME API version: '4.0 20260126'
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\Users\tok\Documents\FME\Workspaces/'
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'vind_hele_norge.fmw'
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2026.1.2.0'
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|Operating System: Microsoft Windows 11 Enterprise 64-bit (Build 26100)
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME Platform: WIN64
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|System Status: 218.56 GB of disk space available in the FME temporary folder (C:\Users\tok\AppData\Local\Temp)
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|System Status: 63.67 GB of physical memory available
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|System Status: 254.69 GB of virtual memory available
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|START - ProcessID: 37964, peak process memory usage: 63708 kB, current process memory usage: 55868 kB
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `C:\Users\tok\Documents\FME\Workspaces\wb-xlate-1780045046753_21416' `--FME_LAUNCH_VIEWER_APP' `WORKBENCH' `LOG_STANDARDOUT' `YES' `LOG_TIMINGS' `YES' `LogCountServerName' `52790' `LOG_STANDARDOUT' `No' `WORKBENCH_LOG_SERVER' `50189'
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\tok\AppData\Roaming\Safe Software\FME\'
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;C:\Users\tok\Documents\FME\Formats
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|Shared folders for transformers are : C:\Users\tok\AppData\Roaming\Safe Software\FME\Packages\26124-win64\transformers;C:\Program Files\FME\transformers
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\tok\Documents\FME\CoordinateSystems
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\tok\Documents\FME\CoordinateSystemExceptions
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\tok\Documents\FME\CoordinateSystemGridOverrides
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\tok\Documents\FME\CsmapTransformationExceptions
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\tok\Documents\FME\TransformerCategories
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME Configuration: Current working folder is `C:\Users\tok\Documents\FME\Workspaces'
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\tok\AppData\Local\Temp', set from environment variable `FME_TEMP'
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME Configuration: Cache folder is 'C:\Users\tok\AppData\Local\Temp'
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|CHECK_MEMORY_INTERVAL set to '100' ms
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 191.01 GB
+2026-05-29 10:57:26|   0.0|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 143.26 GB
+2026-05-29 10:57:27|   0.0|  0.0|INFORM|Creating writer for format: 
+2026-05-29 10:57:27|   0.0|  0.0|INFORM|Creating reader for format: 
+2026-05-29 10:57:27|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2026-05-29 10:57:27|   0.0|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2026-05-29 10:57:27|   0.0|  0.0|INFORM|Using MultiWriter with keyword `PRIMARY_DEST' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2026-05-29 10:57:27|   0.0|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2026-05-29 10:57:27|   0.0|  0.0|INFORM|Emptying factory pipeline
+2026-05-29 10:57:27|   0.0|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
+2026-05-29 10:57:27|   0.0|  0.0|STATS |Unwanted Router Input Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |Boliger 250m 2025_SHAPEFILE_2 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |Tettbygde fritidsbyggområder 2025_SHAPEFILE_4 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |el_luftlinje_GEODATABASE_FILE_2 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |el_mast_GEODATABASE_FILE_2 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |el_sjokabel_GEODATABASE_FILE_2 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |el_transformatorstasjon_GEODATABASE_FILE_2 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |Bedrifter 250m 2026_SHAPEFILE_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |Harde_vern_GEODATABASE_FILE_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |Harde_verdensarvUNESCO_GEODATABASE_FILE_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |Harde_tettsteder_GEODATABASE_FILE_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |Harde_isbreer_GEODATABASE_FILE_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |Harde_Innsjoer_GEODATABASE_FILE_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |Harde_innflyvningssoner_GEODATABASE_FILE_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |Fylker_GEODATABASE_FILE_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |COG_COG_2 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |Bygningsmassen 250m 2025_SHAPEFILE_3 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.0|  0.0|STATS |Restoring 1 feature(s) from FME feature store file `C:\Users\tok\AppData\Local\Temp\wb-cache-vind_hele_norge-NywNBA\Main_NumericRasterizer_2 -1 102 fo 0 RASTER  0  2673db4c45dc9f1fd34794555e00aee189b185ba.ffs'
+2026-05-29 10:57:27|   0.2|  0.2|INFORM|Creating writer for format: GeoTIFF (Geo-referenced Tagged Image File Format)
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `GEOTIFF'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|Writer `GEOTIFF_1' of type `GEOTIFF' using group definition keyword `GEOTIFF_1_DEF'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting writer level option '_WRITE_OFFSETS_IN_CS_UNITS' to value 'Yes'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting writer level option '_WRITE_PROJECTED_COORDSYS_AS_EPSG_CODE' to value 'Yes'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting writer level option '_WRITE_GEOGRAPHIC_COORDSYS_AS_EPSG_CODE' to value 'Yes'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting writer level option '_WRITE_GEOGRAPHIC_KEYS_FOR_PROJECTED_COORDSYS' to value 'Yes'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting writer level option '_WRITE_ESRI_COMPATIBLE_COORDSYS' to value 'No'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_world_file_generation' to value 'no' for feature type 'Raster1'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_compression_method' to value 'none' for feature type 'Raster1'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_jpeg_compression_level' to value '25' for feature type 'Raster1'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_deflate_compression_level' to value '6' for feature type 'Raster1'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_zstd_compression_level' to value '9' for feature type 'Raster1'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_lerc_max_z_error' to value '0' for feature type 'Raster1'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_tab_file_generation' to value 'no' for feature type 'Raster1'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_enable_bigtiff' to value 'yes' for feature type 'Raster1'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_interleaving_type' to value 'BSQ' for feature type 'Raster1'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_byte_order' to value 'machine' for feature type 'Raster1'
+2026-05-29 10:57:27|   0.2|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_calculate_minmax_tifftags' to value 'no' for feature type 'Raster1'
+2026-05-29 10:57:27|   0.6|  0.4|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 1 input feature(s), wrote 1 output feature(s): 0 matched merge filters, 1 were routed to output, 0 could not be routed.
+2026-05-29 10:57:27|   0.6|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2026-05-29 10:57:27|   0.6|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2026-05-29 10:57:27|   0.6|  0.0|INFORM|Feature output statistics for `GEOTIFF' writer using keyword `GEOTIFF_1':
+2026-05-29 10:57:27|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2026-05-29 10:57:27|   0.6|  0.0|STATS |                           Features Written Summary
+2026-05-29 10:57:27|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2026-05-29 10:57:27|   0.6|  0.0|STATS |NumericRasterizer_2                                                          1
+2026-05-29 10:57:27|   0.6|  0.0|STATS |==============================================================================
+2026-05-29 10:57:27|   0.6|  0.0|STATS |Total Features Written                                                       1
+2026-05-29 10:57:27|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2026-05-29 10:57:27|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2026-05-29 10:57:27|   0.6|  0.0|STATS |                            Features Read Summary
+2026-05-29 10:57:27|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2026-05-29 10:57:27|   0.6|  0.0|STATS |==============================================================================
+2026-05-29 10:57:27|   0.6|  0.0|STATS |Total Features Read                                                          0
+2026-05-29 10:57:27|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2026-05-29 10:57:27|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2026-05-29 10:57:27|   0.6|  0.0|STATS |                           Features Written Summary
+2026-05-29 10:57:27|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2026-05-29 10:57:27|   0.6|  0.0|STATS |NumericRasterizer_2                                                          1
+2026-05-29 10:57:27|   0.6|  0.0|STATS |==============================================================================
+2026-05-29 10:57:27|   0.6|  0.0|STATS |Total Features Written                                                       1
+2026-05-29 10:57:27|   0.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2026-05-29 10:57:27|   0.6|  0.0|INFORM|Translation was SUCCESSFUL with 0 warning(s) (1 feature(s) output)
+2026-05-29 10:57:27|   0.6|  0.0|INFORM|FME Session Duration: 0.6 seconds. (CPU: 0.2s user, 0.4s system)
+2026-05-29 10:57:27|   0.6|  0.0|INFORM|END - ProcessID: 37964, peak process memory usage: 131984 kB, current process memory usage: 122072 kB
