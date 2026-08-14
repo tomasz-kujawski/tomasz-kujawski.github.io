@@ -4,7 +4,7 @@ excerpt: "Short description of portfolio item number 1<br/></images/vindkkraftan
 collection: portfolio
 ---
 
-##Bakgrunn
+## Bakgrunn
 
 Prosjektet hadde som mål å identifisere områder i Norge som kan være egnet for etablering av vindkraftanlegg. Analysen tok utgangspunkt i tekniske, miljømessige og arealrelaterte kriterier for å finne områder med gode vindressurser og tilstrekkelig infrastruktur, samtidig som konflikter med bebyggelse, naturverdier og andre arealinteresser ble redusert.
 
@@ -14,13 +14,21 @@ Prosjektet hadde som mål å identifisere områder i Norge som kan være egnet f
 Følgende offentlige geodata ble benyttet i analysen:
 
 *Vindressursdata
+
 *Transformatorstasjoner og elektrisk infrastruktur
+
 *Bygninger og bebygde områder
+
 *Fritidsbebyggelse og fritidsområder
+
 *Innsjøer og elver
+
 *Isbreer
+
 *Vernede områder
+
 *UNESCO-områder
+
 *Innflygingssoner ved flyplasser
 
 Dataene ble hentet fra GeoNorge, NVE og andre offentlige datakilder.
@@ -62,7 +70,7 @@ NVE-data
 
 
 
-/images/model_builder_arcGIS_vindkraft.png
+![ArcGIS ModelBuilder](/images/model_builder_arcGIS_vindkraft.png)
 
  
 
