@@ -1,6 +1,6 @@
 ---
 title: "Vindkraftanalyse"
-excerpt: "Short description of portfolio item number 1<br/></images/vindkraft_samenligning.jpg>"
+excerpt: "Short description of portfolio item number 1<br/></images/vindkkraftanalyse.png>"
 collection: portfolio
 ---
 
