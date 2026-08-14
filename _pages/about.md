@@ -28,3 +28,11 @@ Norge er et mangfoldig samfunn, og jeg ser min internasjonale bakgrunn som en st
 Jeg er oppvokst i Polen, og har gjennom studier, arbeid og lengre opphold også fått erfaring fra andre europeiske land, blant annet Turkie men også fra Spania og Frankrike. Disse erfaringene har gitt meg innsikt i ulike kulturer, arbeidsmåter og perspektiver.
 Jeg opplever at møter mellom mennesker med ulik bakgrunn ofte skaper de beste løsningene. Derfor forsøker jeg å kombinere analytisk tenkning med nysgjerrighet, åpenhet og vilje til å utfordre etablerte måter å løse problemer på. Samtidig er jeg opptatt av å lære av andres erfaringer og perspektiver.
 Mangfold i erfaring, kompetanse og tankesett bidrar til innovasjon og utvikling. Jeg ser derfor min bakgrunn som en ressurs som kan tilføre nye perspektiver og ideer i arbeid med GIS, geodata og arealplanlegging.
+
+
+## Mitt syn på byutvikling
+
+Jeg er spesielt interessert i hvordan byer og tettsteder kan utvikles på en måte som skaper gode hverdagsmiljøer for mennesker.
+De planleggingsidealene som fulgte av Athen-charteret fra 1933 la stor vekt på funksjonell inndeling av byen, der boligområder, arbeidsplasser, rekreasjon og transport i stor grad ble skilt fra hverandre. Denne tankegangen har satt tydelige spor i mange moderne byer. Samtidig har senere planleggingsidealer, blant annet uttrykt gjennom New Charter of Athens (1998), lagt større vekt på integrerte og flerfunksjonelle bymiljøer der mennesker, aktiviteter og funksjoner i større grad blandes. Jeg identifiserer meg sterkest med denne tilnærmingen.
+Gjennom oppvekst og studier i Poznań ble jeg kjent med ideen om at «byen ikke er en bedrift». For meg innebærer dette at byen først og fremst skal være et godt sted å leve. Økonomisk utvikling er viktig, men må balanseres mot hensynet til innbyggernes trivsel, møteplasser, tilgjengelighet og livskvalitet.
+Jeg er inspirert av Jan Gehl og hans menneskesentrerte tilnærming til byutvikling. Ideen om levende, tilgjengelige og inkluderende byrom står nær mine egne verdier. Samtidig er jeg opptatt av å finne en god balanse mellom naturhensyn, sosiale behov og økonomisk utvikling. Etter min mening er bærekraftig arealplanlegging nettopp evnen til å forene disse hensynene på en langsiktig og helhetlig måte.
