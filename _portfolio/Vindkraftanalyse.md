@@ -79,8 +79,7 @@ NVE-data
 ## ArcGIS ModelBuilder
 
 
-/images/model_builder_arcGIS_vindkraft.png
-<img src="/images/model_builder_arcGIS_vindkraft.png"
+![mages/model_builder_arcGIS_vindkraft.png
 
  
 
