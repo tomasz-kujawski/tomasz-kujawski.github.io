@@ -45,3 +45,11 @@ Gjennom årene arbeidet jeg meg opp fra tekniske stillinger til roller med stør
 Det er nettopp dette som motiverte meg til å fordype meg i GIS, dataanalyse og arealplanlegging. Jeg ønsker å arbeide med løsninger som kommer samfunnet til gode og som bidrar til bærekraftig utvikling av byer, tettsteder og lokalsamfunn.
 Jeg mener at min bakgrunn har gitt meg flere egenskaper som er verdifulle i denne rollen: ansvarsfølelse, gjennomføringsevne, analytisk tenkning, nysgjerrighet og et sterkt ønske om kontinuerlig læring. Kombinert med systematisk arbeidsmetodikk og langsiktig fokus gir dette et godt grunnlag for å lykkes innen arealplanlegging og GIS.
 Selv om jeg er relativt ny i faget, er jeg trygg på at jeg har tatt det riktige valget. Erfaringene mine har lært meg å håndtere komplekse utfordringer, lære nye verktøy raskt og arbeide målrettet mot langsiktige mål. Derfor ser jeg med stor motivasjon på muligheten til å bidra til samfunnsutvikling gjennom denne nye karriereveien.
+
+
+## Data Science og dataanalyse
+2
+Som en del av karriereskiftet fullførte jeg videreutdanning i Data Science – Analyse av data ved WSB Merito Universitet.
+Studiet ga meg et solid grunnlag innen databehandling, programmering og analyse. Jeg arbeidet med innsamling, kvalitetssikring, transformasjon, analyse og visualisering av data ved bruk av Python og moderne analyseverktøy.
+Gjennom studiet fikk jeg erfaring med blant annet Python, pandas, NumPy, Matplotlib og Jupyter Notebook, samt metoder for eksplorativ dataanalyse (EDA), statistikk og maskinlæring. Jeg arbeidet med reelle datasett og lærte hvordan data kan brukes som beslutningsstøtte gjennom systematisk analyse og visualisering.
+Selv om hovedinteressen min i dag er GIS og arealplanlegging, ser jeg dataanalyse som et viktig supplement. Evnen til å strukturere, analysere og visualisere store mengder informasjon er relevant både innen geodata, samfunnsanalyse og arealplanlegging.
