@@ -199,14 +199,6 @@ writeRaster(event_plasering, "eventualle_plasseringer.tif", overwrite = TRUE)
 
  
 
-![Analyse i R](/images/R_1_vindkraft.png)
-
- 
-
-![Analyse i R del.2](/images/R_2_vindkraft.png)
-
- 
-
 ## Resultater
 
  
