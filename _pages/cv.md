@@ -57,7 +57,9 @@ TEKNISKE FERDIGHETER
 SPRÅK
 ======
 *Norsk B2
+
 *Engelsk
+
 *Polsk
 
 
