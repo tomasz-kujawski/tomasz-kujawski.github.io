@@ -61,4 +61,4 @@ SPRÅK
 *Polsk
 
 
-[CertificateFME](/images/certificateFME.pdf))
+[CertificateFME](/images/certificateFME.pdf)
