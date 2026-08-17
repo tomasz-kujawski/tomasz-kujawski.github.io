@@ -1,3 +1,13 @@
+---
+title: "Nabolagsutforsker"
+collection: portfolio
+excerpt: "Address-Based Neighborhood Analyzer. <br/><img src='images/nabolagsutforsker.png'>"
+teaser: images/nabolagsutforsker.png
+
+---
+
+
+
 # Nabolagsutforsker (Neighborhood Explorer)
 
 Utviklet en webapplikasjon som analyserer et område basert på en oppgitt adresse. Løsningen geokoder adressen, finner nærliggende interessepunkter og presenterer resultatene på et interaktivt kart.
@@ -608,3 +618,6 @@ def index():
 if __name__ == "__main__":
     app.run(debug=True)
 ```
+
+
+![Address-Based Neighborhood Analyzer](images/nabolagsutforsker.png)
