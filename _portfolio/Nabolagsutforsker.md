@@ -620,4 +620,4 @@ if __name__ == "__main__":
 ```
 
 
-![Address-Based Neighborhood Analyzer](images/nabolagsutforsker.png)
+![Address-Based Neighborhood Analyzer](/images/nabolagsutforsker.png)
