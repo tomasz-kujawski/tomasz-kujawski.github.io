@@ -59,3 +59,6 @@ SPRÅK
 *Norsk B2
 *Engelsk
 *Polsk
+
+
+![CertificateFME](/images/certificate-y88uij9jsazp-1786738494.pdf)
