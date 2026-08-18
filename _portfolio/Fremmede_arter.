@@ -1,0 +1,60 @@
+---
+title: "Fremmede arter"
+collection: portfolio
+excerpt: "XML file . <br/><img src='/images/fremmedarter_xml.png'>"
+teaser: /images/fremmedarter_xml.png
+---
+
+
+## Fremmede arter – klargjøring av geodata for maskinstyring
+
+
+Prosjektet hadde som mål å klargjøre geografiske data om fremmede arter for bruk i maskinstyringssystemer. Dataene skulle brukes av entreprenører i felt for å lokalisere forekomster av fremmede arter og gjennomføre nødvendige tiltak på riktig sted og med riktig dybde.
+
+
+
+### Datasett
+
+- XML-data med registrerte forekomster av fremmede arter
+
+- Geografiske koordinater og tilhørende attributter
+
+- Data tilpasset maskinstyringssystemer
+
+
+
+### Metode
+
+Arbeidsflyten ble utviklet i FME. XML-data ble importert, strukturert og kvalitetssikret før videre bearbeiding.
+
+Følgende operasjoner ble gjennomført:
+
+- omdøping av attributter for å møte kravene til mottakssystemet
+
+-  jerning av overflødige felt
+
+- transformasjon og tilpasning av koordinatsystem
+
+- kontroll og standardisering av dataformat
+
+- eksport tilbake til XML-format
+
+ 
+
+### Resultater
+
+
+Prosjektet resulterte i et standardisert datasett klart for bruk i maskinstyringssystemer og videre feltarbeid. Dataene gjorde det mulig for maskinførere å identifisere riktige lokasjoner og utføre tiltak med nødvendig presisjon.
+
+ 
+### Verktøy
+
+
+- FME Form
+
+- XML
+
+- Geodata og koordinattransformasjon
+
+
+![fremmede arter workflow](/images/fremmedarter_xml.png)
