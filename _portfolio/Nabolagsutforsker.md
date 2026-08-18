@@ -1,8 +1,8 @@
 ---
 title: "Nabolagsutforsker"
 collection: portfolio
-excerpt: "Address-Based Neighborhood Analyzer. <br/><img src='/images/nabolagsutforsker.png'>"
-teaser: /images/nabolagsutforsker.png
+excerpt: "Address-Based Neighborhood Analyzer. <br/><img src='/images/nabolagsutforsker1.png'>"
+teaser: /images/nabolagsutforsker1.png
 ---
 
 
