@@ -1,7 +1,7 @@
 ---
 title: "Synlighets analyse"
 collection: portfolio
-excerpt: "Address-Based Neighborhood Analyzer. <br/><img src='/images/synlighetsanalyse.png'>"
+excerpt: "Vurdering av visuell påvirkning fra planlagt bebyggelse. <br/><img src='/images/synlighetsanalyse.png'>"
 teaser: /images/synlighetsanalyse.png
 ---
 
