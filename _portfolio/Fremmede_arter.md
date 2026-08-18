@@ -1,7 +1,7 @@
 ---
 title: "Fremmede arter"
 collection: portfolio
-excerpt: "XML file . <br/><img src='/images/fremmedarter_xml.png'>"
+excerpt: "Klargjøring av geodata for maskinstyring <br/><img src='/images/fremmedarter_xml.png'>"
 teaser: /images/fremmedarter_xml.png
 ---
 
