@@ -12,14 +12,13 @@ teaser: /images/fremmedarter_xml.png
 Prosjektet hadde som mål å klargjøre geografiske data om fremmede arter for bruk i maskinstyringssystemer. Dataene skulle brukes av entreprenører i felt for å lokalisere forekomster av fremmede arter og gjennomføre nødvendige tiltak på riktig sted og med riktig dybde.
 
 
-
 ### Datasett
 
-- XML-data med registrerte forekomster av fremmede arter
+XML-data med registrerte forekomster av fremmede arter
 
-- Geografiske koordinater og tilhørende attributter
+Geografiske koordinater og tilhørende attributter
 
-- Data tilpasset maskinstyringssystemer
+Data tilpasset maskinstyringssystemer
 
 
 
@@ -29,15 +28,15 @@ Arbeidsflyten ble utviklet i FME. XML-data ble importert, strukturert og kvalite
 
 Følgende operasjoner ble gjennomført:
 
-- omdøping av attributter for å møte kravene til mottakssystemet
+omdøping av attributter for å møte kravene til mottakssystemet
 
--  jerning av overflødige felt
+jerning av overflødige felt
 
-- transformasjon og tilpasning av koordinatsystem
+transformasjon og tilpasning av koordinatsystem
 
-- kontroll og standardisering av dataformat
+kontroll og standardisering av dataformat
 
-- eksport tilbake til XML-format
+eksport tilbake til XML-format
 
  
 
